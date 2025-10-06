@@ -1,11 +1,10 @@
 ---
-titel: "SOP"
-fag: "DDU A og Mat A"
-navn: "Noah Bøgh Bengaard"
+titel: "Projekt 1 - Protocol Panic!"
+fag: "DDU A"
+navn: "Ahed A. Alkurdi, Hjalte R. G. Fravsbøl, Lukas H. Juul & Noah B. Bengaard"
 klasse: "3.X"
-dato: "8/9 - 2025"
-vejleder: "Michael Witus Schierup og Jacob Søgaard"
-gruppe: "Navn og navn"
+dato: "6/10 - 2025"
+vejleder: "Michael Witus Schierup"
 ---
 
 {{< include 0_abstract.qmd >}}
