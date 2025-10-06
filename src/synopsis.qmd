@@ -1,0 +1,39 @@
+---
+titel: "SOP"
+fag: "DDU A og Mat A"
+navn: "Noah Bøgh Bengaard"
+klasse: "3.X"
+dato: "8/9 - 2025"
+vejleder: "Michael Witus Schierup og Jacob Søgaard"
+gruppe: "Navn og navn"
+---
+
+{{< include 0_abstract.qmd >}}
+
+{{< pagebreak >}}
+\tableofcontents
+
+{{< pagebreak >}}
+
+{{< include 1_indledning.qmd >}}
+{{< include 2_metode.qmd >}}
+{{< include 3_funktion.qmd >}}
+{{< include 4_dokumentation.qmd >}}
+{{< include 5_test.qmd >}}
+{{< include 6_konklusion.qmd >}}
+
+# Referencer
+
+::: {#refs}
+:::
+
+{{< pagebreak >}}
+\renewcommand{\thesection}{\Alph{section}}
+\setcounter{section}{0}
+
+# Bilag
+
+## Kildekode
+
+```{.py include="code/rock_paper_scissor_example.py" code-line-numbers="true"}
+```
