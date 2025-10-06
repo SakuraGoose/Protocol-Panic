@@ -1,1 +1,72 @@
-# Metode
+# Projektoplæg
+
+# Problemanalyse
+
+# Software og Materialelister
+
+# Projektafgrænsning
+
+## Must Have, Should Have, Could Have, Wont Have (MoSCoW)
+
+# Planlægning
+
+## Gantt diagram
+## SCRUM
+
+# Metoder og redskaber
+
+
+## Analysemodeller til målgruppeundersøgelse
+
+### MDA (Mechanics, Dynamics, Aesthetics)
+### Bartle's spillertyper
+### Flow teori
+
+## Målgruppeanalyse
+### Minerva
+### RISC og Conzoom
+
+## Metoder til design af UI
+## Designprincipper
+## CRAP modellen
+## Farveteori og kontraster
+## Formteori
+
+# Idégenerering
+
+# Valg af idé kandidater / koncept / design
+
+## Flowchart over logik
+
+# Konkurrence research
+
+## Videnskabelig hjemmel eller belæg
+
+# Skitser af kandidater
+
+## Moodboards og referencer
+
+# Udvælgelse af kandidater
+
+# Paper dummy
+
+## Første usability test
+## Ændring af paper dummy som følge af feedback
+## Evt. usability test igen
+
+# Kravspecifikation til Digital dummy
+
+
+# Digital dummy
+
+
+## Usability test
+
+# Digital dummy / Usability
+
+
+# Endelige produkt
+
+
+# Produktbeskrivelse
+
