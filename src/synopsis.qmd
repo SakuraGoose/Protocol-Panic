@@ -16,11 +16,12 @@ gruppe: "Navn og navn"
 {{< pagebreak >}}
 
 {{< include 1_indledning.qmd >}}
-{{< include 2_metode.qmd >}}
-{{< include 3_funktion.qmd >}}
-{{< include 4_dokumentation.qmd >}}
-{{< include 5_test.qmd >}}
+{{< include 2_problembeskrivelse.qmd >}}
+{{< include 3_princip.qmd >}}
+{{< include 4_evaluering.qmd >}}
+{{< include 5_konklusion.qmd >}}
 {{< include 6_konklusion.qmd >}}
+{{< include 7_perspektivering.qmd >}}
 
 # Referencer
 
