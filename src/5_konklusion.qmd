@@ -1,7 +1,0 @@
-# Test af produkt og evaluering
-
-## Funktionelle test
-
-## Brugertest
-
-## Huskeliste til produktet
